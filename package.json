@@ -1,0 +1,19 @@
+{
+  "name": "ngmodule",
+  "version": "1.0.0",
+  "description": "activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eruljohnubas/NgModule.git"
+  },
+  "author": "erul john ubas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eruljohnubas/NgModule/issues"
+  },
+  "homepage": "https://github.com/eruljohnubas/NgModule#readme"
+}
